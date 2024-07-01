@@ -41,8 +41,8 @@ I'm Sayem Ibne Taher, a passionate Full-Stack Developer with over two years of e
 
 ## My Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github.com/SayemTaher)
+![Top Languages](https://github.com/SayemTaher)
 
 ---
 
