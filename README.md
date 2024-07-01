@@ -1,6 +1,6 @@
 
 
-![Cool Picture](https://via.placeholder.com/1000x300)
+![Cool Picture](https://i.ibb.co/hW84q3v/Frame-2.png/1000x300)
 
 ### 🌟 Front-End-Stack Developer | Back-End Developer | JavaScript Enthusiast | Next.js Explorer
 
@@ -43,7 +43,6 @@ I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist wit
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayemTaher&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayemTaher&layout=compact&theme=radical)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=SayemTaher&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SayemTaher&theme=radical)
 
 
