@@ -42,6 +42,7 @@ I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist wit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayemTaher&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayemTaher&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SayemTaher&theme=radical)
 
 ---
 
