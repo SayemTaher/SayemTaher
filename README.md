@@ -1,6 +1,6 @@
 
 
-![Cool Picture](https://i.ibb.co/hW84q3v/Frame-2.png)
+<img src="https://i.ibb.co/hW84q3v/Frame-2.png/1000x300" alt="Cool Banner" style="width:100%;"/>
 
 ### 🌟 Front-End-Stack Developer | Back-End Developer | JavaScript Enthusiast | Next.js Explorer
 
