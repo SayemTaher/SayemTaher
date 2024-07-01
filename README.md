@@ -1,12 +1,12 @@
-# Hi there, I'm Sayem Ibne Taher! 👋
+
 
 ![Cool Picture](https://via.placeholder.com/1000x300)
 
-### 🌟 Full-Stack Developer | JavaScript Enthusiast | Next.js Explorer
+### 🌟 Front-End-Stack Developer | Back-End Developer | JavaScript Enthusiast | Next.js Explorer
 
 ---
 
-## About Me
+## Me in a nutshell
 
 I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist with over two years of experience working with JavaScript and its ecosystem. I have successfully completed around 40 projects ranging from small personal projects to large-scale applications. My expertise includes a variety of technologies that enable me to build scalable, efficient, and visually appealing web applications.
 
@@ -42,7 +42,10 @@ I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist wit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayemTaher&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayemTaher&layout=compact&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SayemTaher&theme=radical)
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=SayemTaher&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SayemTaher&theme=radical)
+
 
 ---
 
