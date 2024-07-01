@@ -48,19 +48,7 @@ I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist wit
 
 ---
 
-## Featured Projects
 
-### [Project Name](https://github.com/yourusername/projectname)
-![Project Screenshot](https://via.placeholder.com/600x300)
-
-**Description:** Brief description of the project, technologies used, and what you learned.
-
-### [Another Project](https://github.com/yourusername/anotherproject)
-![Project Screenshot](https://via.placeholder.com/600x300)
-
-**Description:** Brief description of the project, technologies used, and what you learned.
-
----
 
 ## Get In Touch
 
