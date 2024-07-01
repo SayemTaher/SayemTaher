@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm Sayem Ibne Taher, a passionate Full-Stack Developer with over two years of experience working with JavaScript and its ecosystem. I have successfully completed around 40 projects ranging from small personal projects to large-scale applications. My expertise includes a variety of technologies that enable me to build scalable, efficient, and visually appealing web applications.
+I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist with over two years of experience working with JavaScript and its ecosystem. I have successfully completed around 40 projects ranging from small personal projects to large-scale applications. My expertise includes a variety of technologies that enable me to build scalable, efficient, and visually appealing web applications.
 
 ---
 
@@ -34,7 +34,6 @@ I'm Sayem Ibne Taher, a passionate Full-Stack Developer with over two years of e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -63,10 +62,7 @@ I'm Sayem Ibne Taher, a passionate Full-Stack Developer with over two years of e
 ## Get In Touch
 
 - Portfolio: [sayemtaher.site](https://www.sayemtaher.site)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: youremail@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sayem-ibne-taher/)
+- Email: sayemtaher788@gmail.com
 
----
 
-### Let's build something amazing together! 🚀
