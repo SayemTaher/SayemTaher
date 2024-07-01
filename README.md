@@ -64,8 +64,8 @@ I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist wit
 
 ## Get In Touch
 
-- [Portfolio](https://www.sayemtaher.site)
-- [Find me on LinkedIn](https://www.linkedin.com/in/sayem-ibne-taher/)
-- Email: sayemtaher788@gmail.com
+🌐[sayemtaher.site](https://www.sayemtaher.site)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayem-ibne-taher/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayemtaher788@gmail.com)
 
 
