@@ -1,5 +1,3 @@
-
-
 <img src="https://i.ibb.co/hW84q3v/Frame-2.png/1000x300" alt="Cool Banner" style="width:100%;"/>
 
 ### 🌟 Front-End Developer | Back-End Developer | JavaScript Enthusiast | Next.js Explorer
@@ -8,45 +6,68 @@
 
 ## Me in a nutshell
 
-I'm Sayem Ibne Taher, a passionate modern Web Developer and UI/UX specialist with over two years of experience working with JavaScript and its ecosystem. I have successfully completed around 40 projects ranging from small personal projects to large-scale applications. My expertise includes a variety of technologies that enable me to build scalable, efficient, and visually appealing web applications.
+I'm **Sayem Ibne Taher**, a passionate modern Web Developer and UI/UX specialist with over two years of experience working with JavaScript and its ecosystem. I have successfully completed around 40 projects ranging from small personal projects to large-scale applications. My expertise includes a variety of technologies that enable me to build scalable, efficient, and visually appealing web applications.
 
 ---
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-5AC8FA?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-5AC8FA?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-## My Journey
+## 🚀 My Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayemTaher&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayemTaher&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayemTaher&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemTaher&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SayemTaher&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SayemTaher&theme=radical" alt="GitHub Trophy" />
+</p>
 
+### Contributions Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayemTaher&theme=dracula" alt="GitHub Activity Graph">
+</p>
 
 ---
+
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+JavaScript       15 hrs 30 mins ████████████▓░░░░░░░░░░░░   67%
+HTML/CSS         4 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   18%
+Next.js          2 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10%
+Other            1 hr 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   5%
+
 
 
 
