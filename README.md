@@ -61,11 +61,15 @@ I'm **Sayem Ibne Taher**, a passionate modern Web Developer and UI/UX specialist
 
 ## 📊 Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-```text
 JavaScript       15 hrs 30 mins ████████████▓░░░░░░░░░░░░   67%
+
+
 HTML/CSS         4 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   18%
+
+
 Next.js          2 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10%
+
+
 Other            1 hr 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   5%
 
 
@@ -73,8 +77,9 @@ Other            1 hr 15 mins   █▓░░░░░░░░░░░░░░
 
 ## Get In Touch
 
-🌐[sayemtaher.org](https://www.sayemtaher.org)
+- 🌐 [sayemtaher.org](https://www.sayemtaher.org)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayem-ibne-taher/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayemtaher788@gmail.com)
+
 
 
